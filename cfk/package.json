@@ -1,0 +1,19 @@
+{
+  "name": "cf",
+  "version": "1.0.0",
+  "description": "A CLI to push Cloud Foundry App to KAOPS (Kuberenetes GitOps).",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rushan Khan",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "@vitalets/google-translate-api": "^7.0.0",
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.1",
+    "js-yaml": "^4.1.0",
+    "yargs": "^16.1.1"
+  }
+}
